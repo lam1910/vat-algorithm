@@ -1,2 +1,2 @@
-# vat-algorithm
-Our implementation of the VAT algorithm for class
+# VAT Algorithm
+Our implementation of the VAT algorithm for machine learning class
