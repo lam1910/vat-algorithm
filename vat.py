@@ -17,7 +17,7 @@ def vat(input_matrix):
     unselected_index_list = np.arange(number_of_row)
     # initialize step
     unselected_index_list = np.delete(unselected_index_list, 0)
-    # order: list that track the order of the final matrix
+    # order: list that track the order of the final matrix (or R in the paper)
     order = [0]
 
     # Iteration (step 3)
